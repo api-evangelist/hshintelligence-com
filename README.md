@@ -1,4 +1,4 @@
-# hshintelligence-com
+# HSH Intelligence
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hshintelligence-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hshintelligence.com/
+HSH Intelligence is the data division of HSH Industries, providing institutional‑grade intelligence products. It offers on‑demand data APIs covering markets, sports, crypto, ESG, and more, delivered via a credit‑based pay‑per‑call model. The platform emphasizes speed, accuracy, and customizable data feeds for analysts, developers, and enterprises.
+
+**Areas:** Alternative Data · Markets & Finance · Sports & Wagering · Company Intelligence · Web Monitoring · Crypto
+
+## HSH Intelligence on APIs.io
+
+Everything profiled for HSH Intelligence is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hshintelligence-com/](https://apis.io/providers/hshintelligence-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [HSH Intelligence API](https://apis.io/apis/hshintelligence-com/hshintelligence-com-api/) — HSH Intelligence API as documented publicly: 5 operations. Contract generated from the documentation by API Evangelist (2026-11-11); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [GetWellKnownAgentManifestJsonResponse](https://apis.io/schemas/hshintelligence-com/hshintelligence-com-get-well-known-agent-manifest-json-response/)
+- [PostX402THshMenaIntelRequest](https://apis.io/schemas/hshintelligence-com/hshintelligence-com-post-x402-thsh-mena-intel-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hshintelligence Com Context](https://apis.io/jsonld/hshintelligence-com/hshintelligence-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HSH Intelligence API Rules](https://apis.io/rules/hshintelligence-com/hshintelligence-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [HSH Intelligence Domain Security](https://apis.io/security/hshintelligence-com/hshintelligence-com-domain-security/)
+- [HSH Intelligence Trust Center](https://apis.io/security/hshintelligence-com/hshintelligence-com-trust-center/)
+- [HSH Intelligence Vulnerability Disclosure](https://apis.io/security/hshintelligence-com/hshintelligence-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [HSH Intelligence Plans Pricing](https://apis.io/plans/hshintelligence-com/hshintelligence-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hshintelligence.com/)
+- [Documentation](https://www.hshintelligence.com/docs)
+- [Getting started](https://www.hshintelligence.com/docs/quickstart)
+- [Pricing](https://www.hshintelligence.com/pricing)
+- [Security](https://www.hshintelligence.com/trust#security)
+- [Compliance](https://www.hshintelligence.com/trust)
+- [Terms of service](https://www.hshintelligence.com/terms)
+- [Privacy policy](https://www.hshintelligence.com/privacy)
+- [Status](https://www.hshintelligence.com/status)
+
+## API Evangelist rating
+
+**Kin Score 54.1** — developing · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 50.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 75.8 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hshintelligence-com/](https://apis.io/providers/hshintelligence-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HSH Intelligence: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hshintelligence-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
